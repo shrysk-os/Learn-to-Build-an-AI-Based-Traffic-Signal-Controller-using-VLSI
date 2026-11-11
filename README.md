@@ -205,4 +205,4 @@ certutil -hashfile rtl\junction_controller.sv SHA256
 The delivered RTL must match the recorded checksums to preserve verification reproducibility.
 
 ## Author & Disclosure
-
+SHREYAS K,Elevance Skills VLSI internship. AI Transparency Notice: Parts of the conceptual explanations and analogies in this documentation were generated with the assistance of [AI Tool, e.g., ChatGPT]. All AI-generated content has been human-reviewed, edited, and verified for technical accuracy.
